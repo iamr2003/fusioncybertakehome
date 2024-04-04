@@ -2,9 +2,7 @@ import chainlit as cl
 import json
 import requests
 
-# connect to API from ngrok
-# then interface with chainlit client
-
+#UPDATE THIS WITH URL FROM COLAB
 colab_url = "https://9615-35-236-248-237.ngrok-free.app/"
 
 
